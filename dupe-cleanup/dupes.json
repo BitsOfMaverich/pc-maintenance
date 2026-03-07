@@ -1,0 +1,493 @@
+{
+  "jdupesVersion": "1.27.3",
+  "jdupesVersionDate": "2023-08-26",
+  "commandLine": "jdupes --json --size --recurse /home/rich/OneDrive/Pictures/",
+  "extensionFlags": "dedupe",
+  "matchSets": [
+    {
+      "fileSize": 805959,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/wp_0248.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/wp_0248.jpg" },
+      ]
+    },
+    {
+      "fileSize": 49711,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/wp_0388.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/wp_0388.jpg" },
+      ]
+    },
+    {
+      "fileSize": 6304375,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2019/fish.jpg" }
+      ]
+    },
+    {
+      "fileSize": 695148,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/wp_0398.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/wp_0398.jpg" },
+      ]
+    },
+    {
+      "fileSize": 496862,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2019/Snapchat-1717001948.jpg" }
+      ]
+    },
+    {
+      "fileSize": 40853,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/wp_0395.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/wp_0395.jpg" },
+      ]
+    },
+    {
+      "fileSize": 688899,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/fixing the walk.jpg" },
+      ]
+    },
+    {
+      "fileSize": 815021,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/wp_0199.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/wp_0199.jpg" },
+      ]
+    },
+    {
+      "fileSize": 690680,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/wp_0257.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/wp_0257.jpg" },
+      ]
+    },
+    {
+      "fileSize": 2757403,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/20190424_182426.jpg" },
+      ]
+    },
+    {
+      "fileSize": 755820,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/20190908_190707.jpg" },
+      ]
+    },
+    {
+      "fileSize": 138828,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/IMG_9746.jpg" },
+      ]
+    },
+    {
+      "fileSize": 141592,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/4x6/Snapchat-637181840.jpg" },
+      ]
+    },
+    {
+      "fileSize": 12440278,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/8x10/Mom and Dad 1.jpg" },
+      ]
+    },
+    {
+      "fileSize": 1453749,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/8x10/pilot.jpg" },
+      ]
+    },
+    {
+      "fileSize": 1871283,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/8x10/IMG_9392.jpg" },
+      ]
+    },
+    {
+      "fileSize": 6896125,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Portraits for Mikala/IMG_2331_color.jpg" }
+      ]
+    },
+    {
+      "fileSize": 9185586,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Portraits for Mikala/IMG_2340_color.jpg" }
+      ]
+    },
+    {
+      "fileSize": 1936244,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/sep 3 2008-33.jpg" }
+      ]
+    },
+    {
+      "fileSize": 1923540,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Pictures/IMG_1375.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2005785,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Pictures/IMG_1373.JPG" }
+      ]
+    },
+    {
+      "fileSize": 1751623,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Pictures/IMG_1371.JPG" }
+      ]
+    },
+    {
+      "fileSize": 19395,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/_JCPENNEY_JPG_11.gif" }
+      ]
+    },
+    {
+      "fileSize": 1856096,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/nathaniel/nathaniel-2.jpg" }
+      ]
+    },
+    {
+      "fileSize": 1564096,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Melissa/Melissa  2007 08-09/S6300212.JPG" }
+      ]
+    },
+    {
+      "fileSize": 1770491,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/2007-09/12-2 -7-31.jpg" },
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/nathaniel/nathaniel-1.jpg" }
+      ]
+    },
+    {
+      "fileSize": 1911743,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/2007-09/12-2 -7-26.jpg" },
+      ]
+    },
+    {
+      "fileSize": 2496265,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/hand made/IMG_0340.JPG" },
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/hand made/tray/IMG_0340.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2616443,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/hand made/tray/IMG_0339.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2318311,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/hand made/IMG_0341.JPG" },
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/hand made/tray/IMG_0341.JPG" }
+      ]
+    },
+    {
+      "fileSize": 98690,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/hand made/165910_280171768780783_940427661_n.jpg" }
+      ]
+    },
+    {
+      "fileSize": 1149154,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/RNDVZ2/RNDVZ2-1.avi" },
+      ]
+    },
+    {
+      "fileSize": 1220700,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/RNDVZ2/RNDVZ2-2.avi" },
+      ]
+    },
+    {
+      "fileSize": 1169950,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/RNDVZ2/RNDVZ2-5.avi" },
+      ]
+    },
+    {
+      "fileSize": 3234804,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/RNDVZ2/RNDVZ2-3.avi" },
+      ]
+    },
+    {
+      "fileSize": 3047796,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/2012-4-27/IMG_0462.JPG" },
+      ]
+    },
+    {
+      "fileSize": 3133733,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/2012-4-27/IMG_0463.JPG" },
+      ]
+    },
+    {
+      "fileSize": 1882,
+      "fileList": [
+    },
+    {
+      "fileSize": 2879561,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/trick pics/pines.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2903257,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/trick pics/pecans 2.JPG" }
+      ]
+    },
+    {
+      "fileSize": 6230812,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2018/142___02/IMG_2384_r1.jpg" },
+    {
+      "fileSize": 20208415,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Old_Photos/Pruitt-Carrick/need catalogged/All Carricks.PSD" },
+      ]
+    },
+    {
+      "fileSize": 15996692,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Old_Photos/Pruitt-Carrick/need catalogged/JohnLogan,Lucinda(Logan)Carrick,,Ruth,MortonCarrick c1916.psd" },
+        { "filePath": "/home/rich/OneDrive/Pictures/Old_Photos/Pruitt-Carrick/need catalogged/John, Lucinda(Logan), Ruth, Morton c.1916.PSD" }
+      ]
+    },
+    {
+      "fileSize": 949,
+      "fileList": [
+      ]
+    },
+    {
+      "fileSize": 12077812,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Old_Photos/Benedict-Williamson/T Coates, K Williamson, L Pyatt, J Gass, M Gass sept 1969.PSD" }
+      ]
+    },
+    {
+      "fileSize": 3433316,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/IMG_2848 soft.jpg" }
+      ]
+    },
+    {
+      "fileSize": 535690,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/_35_Archive/2400 hq off.JPG" },
+      ]
+    },
+    {
+      "fileSize": 1487643,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Dad visitation/8x10/IMG_1474.JPG" },
+        { "filePath": "/home/rich/OneDrive/Pictures/google_photos/2003-2016/IMG_1474.jpg" }
+      ]
+    },
+    {
+      "fileSize": 3501777,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2003/2003-08-02  elephant rock 1 aug 03/IMG_1514.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2359352,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2003/2003 Unsorted/girls_1237.BMP" },
+      ]
+    },
+    {
+      "fileSize": 1892710,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2003/2003-11-22 lockwood baby/prints/IMG_1719.JPG" },
+      ]
+    },
+    {
+      "fileSize": 2034711,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2003/2003-11-22 lockwood baby/prints/IMG_1729.JPG" },
+      ]
+    },
+    {
+      "fileSize": 32906373,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/random/marcus_8x10.jpg" }
+      ]
+    },
+    {
+      "fileSize": 4118467,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Portraits for Mikala/Violin and Candle.jpg" }
+      ]
+    },
+    {
+      "fileSize": 2033561,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2004/2004-08-28 camera test/elph_2.JPG" },
+      ]
+    },
+    {
+      "fileSize": 1574723,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2004/2004-08-28 camera test/elph_6.JPG" },
+      ]
+    },
+    {
+      "fileSize": 1329138,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2004/2004-08-28 camera test/elph_3.JPG" },
+      ]
+    },
+    {
+      "fileSize": 1576709,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2004/2004-08-28 camera test/elph_1.JPG" },
+      ]
+    },
+    {
+      "fileSize": 2171475,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2004/2004-08-28 camera test/elph_4.JPG" },
+      ]
+    },
+    {
+      "fileSize": 1585673,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/2004/2004-08-28 camera test/elph_5.JPG" },
+      ]
+    },
+    {
+      "fileSize": 3743148,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/house construction/IMG_2290.JPG" }
+      ]
+    },
+    {
+      "fileSize": 145518,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Marsha/puppy/unnamed_pup_2096.JPG" }
+      ]
+    },
+    {
+      "fileSize": 111341,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Marsha/puppy/girls_and_pup_2100_sm.JPG" }
+      ]
+    },
+    {
+      "fileSize": 642425,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/random/Tree of Life, Bahrain.JPG" }
+      ]
+    },
+    {
+      "fileSize": 56397,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/chris and bill.JPG" }
+      ]
+    },
+    {
+      "fileSize": 76435,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/IMG_2230.JPG" }
+      ]
+    },
+    {
+      "fileSize": 86582,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/salala hotel 2.JPG" }
+      ]
+    },
+    {
+      "fileSize": 65725,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/salala hotel.JPG" }
+      ]
+    },
+    {
+      "fileSize": 59646,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/airport.JPG" }
+      ]
+    },
+    {
+      "fileSize": 56634,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/IMG_2149.JPG" }
+      ]
+    },
+    {
+      "fileSize": 57190,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/Other People's pics/Friom Rich/thumrait.JPG" }
+      ]
+    },
+    {
+      "fileSize": 54765,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/random/ferry to Masirah Island.JPG" }
+      ]
+    },
+    {
+      "fileSize": 6002808,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/random/Masirah Island.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2081783,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Portraits for Mikala/IMG_0117.JPG" }
+      ]
+    },
+    {
+      "fileSize": 2762893,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Harral Hall/Harral_Hall.jpg" },
+      ]
+    },
+    {
+      "fileSize": 4548210,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Landscapes for big prints/IMG_1199.JPG" }
+      ]
+    },
+    {
+      "fileSize": 4475960,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Landscapes for big prints/IMG_1214 retouched.jpg" }
+      ]
+    },
+    {
+      "fileSize": 856,
+      "fileList": [
+      ]
+    },
+    {
+      "fileSize": 2445943,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/mom_and_dad_pictures/2016-12-04/021.JPG" }
+      ]
+    },
+    {
+      "fileSize": 7468462,
+      "fileList": [
+        { "filePath": "/home/rich/OneDrive/Pictures/Camera Roll/2025/08/20250811_181738 1.jpg" }
+      ]
+    }
+  ]
+}

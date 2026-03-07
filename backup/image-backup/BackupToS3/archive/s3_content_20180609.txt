@@ -1,0 +1,2 @@
+Total size stored in the target location:
+0 GB

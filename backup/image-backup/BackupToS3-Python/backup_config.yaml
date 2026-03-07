@@ -1,0 +1,14 @@
+s3_bucket: richardhall-backup
+s3_prefix: rich/void/
+storageclass: GLACIER_IR
+include:
+  - "D:/OneDrive/hall_network_stuff"
+  - "D:/OneDrive/Health Records"
+  - "D:/OneDrive/Machine Maintenance"
+  - "D:/OneDrive/Writing, Rants, Religion, Philosophy"
+  #- "D:/OneDrive/My Pictures"
+  #- "D:/OneDrive/tmp"
+exclude:
+  - "D:/OneDrive/hall_network_stuff/archive"
+
+

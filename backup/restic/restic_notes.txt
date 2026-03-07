@@ -1,0 +1,127 @@
+
+# install
+sudo apt install restic
+
+# configs
+/home/rich/.configs/restic
+
+---
+# restic.env
+RESTIC_REPOSITORY="s3:s3.amazonaws.com/bucket-name"
+RESTIC_PASSWORD_FILE="/root/.restic-pass"
+AWS_PROFILE="maintenance"
+
+# excludes.txt
+# supports paths and wildcards
+# spaces are fine.  don't quote paths with spaces
+
+
+---
+# backup-paths.txt
+# backup-paths.txt
+# spaces are fine
+
+/home/rich
+
+
+---
+# extentions and filenames
+*.bak
+*.iso
+Thumbs.db
+
+# directories
+/home/rich/.config/Slack/
+/home/rich/.config/Code/CachedData/
+/home/rich/.config/google-chrome/
+/home/rich/X-Plane 12/
+/home/rich/.x-plane/
+/home/rich/kubectl/
+/home/rich/OneDrive/people help/
+/home/rich/OneDrive/Scanned Documents/
+/home/rich/OneDrive/aws/AWS_Collect/
+/home/rich/Documents/
+/home/rich/.cache/
+/home/rich/.fgfs/
+/home/rich/.local/share/Trash/
+/home/rich/Downloads/
+/home/rich/snap/
+/home/rich/Public
+
+
+# restic password (run as root)
+umask 077
+openssl rand -base64 48 > /root/.restic-pass
+chmod 600 /root/.restic-pass
+
+
+# initial setup (as root)
+set -a
+source /home/rich/.config/restic/restic.env
+set +a
+
+# one-time
+restic init
+
+# do we see the empty repo?
+restic snapshots
+
+# dry run (optional)
+restic backup \
+  --files-from /home/rich/.config/restic/backup-paths.txt \
+  --exclude-file /home/rich/.config/restic/excludes.txt \
+  --dry-run
+
+# first real backup
+restic backup \
+  --files-from /home/rich/.config/restic/backup-paths.txt \
+  --exclude-file /home/rich/.config/restic/excludes.txt
+
+
+
+
+# execution
+set -a
+source /home/rich/.config/restic/restic.env
+set +a
+
+restic backup \
+    --one-file-system \
+    --files-from /home/rich/.config/restic/backup-paths.txt \
+    --exclude-file /home/rich/.config/restic/excludes.txt \
+    --dry-run
+
+
+
+
+
+# test and validate
+    Complete your first real backup.
+    Run restic check.
+    Restore a random directory to /tmp.
+    Delete a file locally.
+    Restore just that file.
+    Run restic forget --keep-last 3 --prune (in test repo).
+    Run restic check again.
+
+
+# usage
+restic snapshots
+    restic snapshots --latest N
+
+restic ls
+    restic ls latest
+    restic ls snapID
+
+restic stats
+    restic stats latest
+    restic stats snapID
+
+restic diff snapid1 snapid2
+
+# find is case sensitive.  use -i to ignore
+restic find sprocket.JPG
+    restic find sproket*
+    restic find -i SPROCKET*
+
+    restic forget snamID
