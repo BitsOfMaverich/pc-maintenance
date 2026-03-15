@@ -1,0 +1,258 @@
+---
+Sun Mar 8 05:05:01 AM CDT 2026
+using parent snapshot a7c2f413
+
+Files:           3 new,    10 changed, 72437 unmodified
+Dirs:            0 new,    17 changed,  8596 unmodified
+Added to the repository: 22.514 MiB (17.603 MiB stored)
+
+processed 72450 files, 160.910 GiB in 0:02
+snapshot b835a5c6 saved
+{
+    "MessageId": "853b0e3b-f2ca-5cb1-bb88-6c1cbedfc2ba"
+}
+---
+Mon Mar 9 05:05:01 AM CDT 2026
+using parent snapshot b835a5c6
+
+Files:          14 new,    37 changed, 72410 unmodified
+Dirs:            0 new,    30 changed,  8583 unmodified
+Added to the repository: 22.651 MiB (12.104 MiB stored)
+
+processed 72461 files, 160.919 GiB in 0:02
+snapshot 9779b3a5 saved
+{
+    "MessageId": "2a376a7b-30f9-503d-8a62-0853ad6f4d1c"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 12 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+12 snapshots
+
+---
+Tue Mar 10 05:05:01 AM CDT 2026
+using parent snapshot 9779b3a5
+
+Files:           2 new,    25 changed, 72433 unmodified
+Dirs:            1 new,    29 changed,  8584 unmodified
+Added to the repository: 29.985 MiB (5.401 MiB stored)
+
+processed 72460 files, 160.908 GiB in 0:02
+snapshot a776ecdd saved
+{
+    "MessageId": "e71268ca-55c9-5583-ae17-0ae3badf7387"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 13 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+13 snapshots
+
+---
+Wed Mar 11 05:05:01 AM CDT 2026
+using parent snapshot a776ecdd
+
+Files:          27 new,   107 changed, 72340 unmodified
+Dirs:            0 new,    64 changed,  8550 unmodified
+Added to the repository: 24.559 MiB (10.603 MiB stored)
+
+processed 72474 files, 160.912 GiB in 0:02
+snapshot 23fa2eba saved
+{
+    "MessageId": "7d58159b-2f95-5404-8272-77b06f03684e"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 14 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+14 snapshots
+
+---
+Thu Mar 12 05:05:01 AM CDT 2026
+using parent snapshot 23fa2eba
+
+Files:           0 new,    14 changed, 72460 unmodified
+Dirs:            0 new,    16 changed,  8598 unmodified
+Added to the repository: 1.957 MiB (552.001 KiB stored)
+
+processed 72474 files, 160.912 GiB in 0:02
+snapshot 4ce341bb saved
+{
+    "MessageId": "485caf42-d469-5afb-9b1b-cd6e467fd354"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 15 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+15 snapshots
+
+---
+Fri Mar 13 05:05:01 AM CDT 2026
+using parent snapshot 4ce341bb
+
+Files:           9 new,    26 changed, 72436 unmodified
+Dirs:            0 new,    37 changed,  8576 unmodified
+Added to the repository: 16.564 MiB (10.078 MiB stored)
+
+processed 72471 files, 160.913 GiB in 0:02
+snapshot 387886c3 saved
+{
+    "MessageId": "f7dfe5a3-af07-521c-a35f-878e4c917f2f"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 16 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+16 snapshots
+
+---
+Sat Mar 14 05:05:01 AM CDT 2026
+using parent snapshot 387886c3
+
+Files:          12 new,    32 changed, 72434 unmodified
+Dirs:            1 new,    47 changed,  8566 unmodified
+Added to the repository: 25.521 MiB (16.729 MiB stored)
+
+processed 72478 files, 160.921 GiB in 0:02
+snapshot 72dfc808 saved
+{
+    "MessageId": "469399e4-31f9-5cf4-a5e8-fbcb04ef5b31"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 17 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+17 snapshots
+
+---
+Sun Mar 15 05:05:01 AM CDT 2026
+using parent snapshot 72dfc808
+
+Files:          79 new,    24 changed, 72375 unmodified
+Dirs:            0 new,    24 changed,  8590 unmodified
+Added to the repository: 3.614 MiB (1.179 MiB stored)
+
+processed 72478 files, 160.921 GiB in 0:02
+snapshot d3e19cda saved
+{
+    "MessageId": "cb6f33eb-f601-5390-a6e8-51db70941fbe"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 18 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+18 snapshots
+

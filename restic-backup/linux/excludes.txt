@@ -1,0 +1,26 @@
+# excludes.txt
+# supports paths and wildcards
+# spaces are fine.  don't quote paths with spaces
+
+# extentions and filenames
+*.bak
+*.iso
+Thumbs.db
+
+# directories
+/home/rich/.config/Slack/
+/home/rich/.config/google-chrome/
+/home/rich/.config/Code/
+/home/rich/X-Plane 12/
+/home/rich/.x-plane/
+/home/rich/kubectl/
+/home/rich/OneDrive/people help/
+/home/rich/OneDrive/Scanned Documents/
+/home/rich/OneDrive/aws/AWS_Collect/
+/home/rich/Documents/
+/home/rich/.cache/
+/home/rich/.fgfs/
+/home/rich/.local/share/Trash/
+/home/rich/Downloads/
+/home/rich/snap/
+/home/rich/Public/

@@ -1,0 +1,4 @@
+# backup-paths.txt
+# spaces are fine
+
+/home/rich

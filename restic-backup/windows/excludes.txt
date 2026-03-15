@@ -1,0 +1,10 @@
+# excludes.txt
+# supports paths and wildcards
+# spaces are fine.  don't quote paths with spaces
+
+# extentions and filenames
+*.bak
+*.iso
+Thumbs.db
+
+c:\Users\Marsha\Documents\Thunderbird profile

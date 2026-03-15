@@ -1,0 +1,5 @@
+archive
+dupe-cleanup/*.csv
+dupe-cleanup/*.json
+dupe-cleanup/*.xlsx
+restic-backup/*/.restic-pass_*
