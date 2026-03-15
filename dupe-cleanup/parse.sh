@@ -13,5 +13,5 @@
         ($fp | sub(".*/"; ""))      # filename
       ]
     | @csv
-  ' dupes.json
+  ' marsha_dupes.json
 )
