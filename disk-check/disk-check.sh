@@ -59,6 +59,6 @@ done
 # periodic ping to verify script is still running      
 if [[ $(date +%a) == "Mon" && $failed == false ]]; then
     send_sns_message \
-        subject="Health Check for $host" \
+        subject="Health Check PASS: $host" \
         message="Health checks PASSED on $host"
 fi

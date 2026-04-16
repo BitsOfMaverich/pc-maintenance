@@ -256,3 +256,1704 @@ d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
 -----------------------------------------------------------------------------
 18 snapshots
 
+---
+Mon Mar 16 05:05:01 AM CDT 2026
+using parent snapshot d3e19cda
+
+Files:          33 new,    45 changed, 72428 unmodified
+Dirs:           20 new,    41 changed,  8573 unmodified
+Added to the repository: 15.423 MiB (2.758 MiB stored)
+
+processed 72506 files, 160.921 GiB in 0:02
+snapshot 03c10c67 saved
+{
+    "MessageId": "0145ab41-58e4-5a24-a83d-c97080f21b6c"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 19 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+19 snapshots
+
+---
+Tue Mar 17 05:05:01 AM CDT 2026
+using parent snapshot 03c10c67
+
+Files:           1 new,    20 changed, 72486 unmodified
+Dirs:            0 new,    26 changed,  8608 unmodified
+Added to the repository: 6.731 MiB (1.546 MiB stored)
+
+processed 72507 files, 160.922 GiB in 0:02
+snapshot d3b659ca saved
+{
+    "MessageId": "2661dd81-c737-5066-bd7c-bfb2eea26b96"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 20 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+20 snapshots
+
+---
+Wed Mar 18 05:05:01 AM CDT 2026
+using parent snapshot d3b659ca
+
+Files:          20 new,    33 changed, 72473 unmodified
+Dirs:            5 new,    30 changed,  8604 unmodified
+Added to the repository: 943.022 MiB (931.680 MiB stored)
+
+processed 72526 files, 161.832 GiB in 0:13
+snapshot 25a920c5 saved
+{
+    "MessageId": "2e1aba2d-ca86-5adf-8aaf-d819b1a734b4"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 21 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+21 snapshots
+
+---
+Thu Mar 19 05:05:01 AM CDT 2026
+using parent snapshot 25a920c5
+
+Files:          15 new,   104 changed, 72415 unmodified
+Dirs:            1 new,    57 changed,  8582 unmodified
+Added to the repository: 14.369 MiB (7.337 MiB stored)
+
+processed 72534 files, 161.832 GiB in 0:02
+snapshot 748c677b saved
+{
+    "MessageId": "d11811aa-537f-5d3a-ac07-739f9feaaf78"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 22 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+22 snapshots
+
+---
+Fri Mar 20 05:05:01 AM CDT 2026
+using parent snapshot 748c677b
+
+Files:           0 new,    15 changed, 72519 unmodified
+Dirs:            0 new,    19 changed,  8621 unmodified
+Added to the repository: 2.218 MiB (415.531 KiB stored)
+
+processed 72534 files, 161.832 GiB in 0:02
+snapshot 4a5ec1ac saved
+{
+    "MessageId": "667a098c-5283-51d4-bd06-6bbb4c94831f"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 23 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+23 snapshots
+
+---
+Sat Mar 21 05:05:01 AM CDT 2026
+using parent snapshot 4a5ec1ac
+
+Files:          18 new,    21 changed, 72494 unmodified
+Dirs:            0 new,    23 changed,  8617 unmodified
+Added to the repository: 2.889 MiB (489.809 KiB stored)
+
+processed 72533 files, 161.832 GiB in 0:02
+snapshot 65f48f7c saved
+{
+    "MessageId": "fc7a924b-249c-50a2-b860-f0734b0437a7"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 24 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+24 snapshots
+
+---
+Sat Mar 21 08:35:08 AM CDT 2026
+---
+Sun Mar 22 05:05:01 AM CDT 2026
+using parent snapshot 18596a31
+
+Files:           9 new,    11 changed, 47429 unmodified
+Dirs:            0 new,    15 changed,  5544 unmodified
+Added to the repository: 63.316 MiB (52.171 MiB stored)
+
+processed 47449 files, 158.153 GiB in 0:03
+snapshot 4b2cb5a1 saved
+{
+    "MessageId": "af6ebcef-d9f1-5a59-bf64-ded618e9b9f5"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 26 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+26 snapshots
+
+---
+Mon Mar 23 05:05:01 AM CDT 2026
+using parent snapshot 4b2cb5a1
+
+Files:           0 new,    19 changed, 47430 unmodified
+Dirs:            0 new,    14 changed,  5545 unmodified
+Added to the repository: 2.238 MiB (499.797 KiB stored)
+
+processed 47449 files, 158.153 GiB in 0:02
+snapshot 7bae2686 saved
+{
+    "MessageId": "5f70d146-fd2a-590d-a0bf-b37defbfb865"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 27 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+27 snapshots
+
+---
+Tue Mar 24 05:05:01 AM CDT 2026
+using parent snapshot 7bae2686
+
+Files:           0 new,    13 changed, 47436 unmodified
+Dirs:            0 new,    13 changed,  5546 unmodified
+Added to the repository: 1.681 MiB (377.578 KiB stored)
+
+processed 47449 files, 158.153 GiB in 0:02
+snapshot 17b6241d saved
+{
+    "MessageId": "84d832ba-738b-511d-be44-5086179eec3c"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 28 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+28 snapshots
+
+---
+Wed Mar 25 05:05:01 AM CDT 2026
+using parent snapshot 17b6241d
+
+Files:           2 new,     9 changed, 47440 unmodified
+Dirs:            0 new,    15 changed,  5544 unmodified
+Added to the repository: 9.043 MiB (1.666 MiB stored)
+
+processed 47451 files, 158.153 GiB in 0:02
+snapshot 6f3c2641 saved
+{
+    "MessageId": "cfa9d81f-01fa-5971-8b0c-ba22b46f17f8"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 29 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+29 snapshots
+
+---
+Thu Mar 26 05:05:01 AM CDT 2026
+using parent snapshot 6f3c2641
+
+Files:           0 new,    11 changed, 47440 unmodified
+Dirs:            0 new,    13 changed,  5546 unmodified
+Added to the repository: 2.546 MiB (902.815 KiB stored)
+
+processed 47451 files, 158.153 GiB in 0:02
+snapshot 3c703ab6 saved
+{
+    "MessageId": "920e6c0f-0643-5678-972e-0e3001569b72"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 30 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+30 snapshots
+
+---
+Fri Mar 27 05:05:01 AM CDT 2026
+using parent snapshot 3c703ab6
+
+Files:           2 new,     9 changed, 47442 unmodified
+Dirs:            0 new,    16 changed,  5543 unmodified
+Added to the repository: 11.513 MiB (6.738 MiB stored)
+
+processed 47453 files, 158.158 GiB in 0:02
+snapshot 40d62681 saved
+{
+    "MessageId": "d82f68b8-330b-58d4-b20c-0af86b9dc8dd"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 31 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+31 snapshots
+
+---
+Sat Mar 28 05:05:01 AM CDT 2026
+using parent snapshot 40d62681
+
+Files:           1 new,     9 changed, 47444 unmodified
+Dirs:            0 new,    16 changed,  5543 unmodified
+Added to the repository: 9.262 MiB (5.783 MiB stored)
+
+processed 47454 files, 158.162 GiB in 0:02
+snapshot 56fcca39 saved
+{
+    "MessageId": "81170408-0643-53e7-b158-6649ac56c254"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 32 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+32 snapshots
+
+---
+Sun Mar 29 05:05:01 AM CDT 2026
+using parent snapshot 56fcca39
+
+Files:           5 new,    10 changed, 47444 unmodified
+Dirs:            0 new,    17 changed,  5542 unmodified
+Added to the repository: 36.947 MiB (30.529 MiB stored)
+
+processed 47459 files, 158.190 GiB in 0:02
+snapshot 1eadfefc saved
+{
+    "MessageId": "f60f03d2-84a4-5244-81a3-61907f32db02"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 33 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+33 snapshots
+
+---
+Mon Mar 30 05:05:01 AM CDT 2026
+using parent snapshot 1eadfefc
+
+Files:           1 new,     7 changed, 47452 unmodified
+Dirs:            0 new,    14 changed,  5545 unmodified
+Added to the repository: 8.853 MiB (5.748 MiB stored)
+
+processed 47460 files, 158.195 GiB in 0:02
+snapshot 9b0ce73e saved
+{
+    "MessageId": "13695dcd-287e-59a0-9dfd-3f89656b258e"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 34 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+34 snapshots
+
+---
+Tue Mar 31 05:05:01 AM CDT 2026
+using parent snapshot 9b0ce73e
+
+Files:           0 new,     7 changed, 47453 unmodified
+Dirs:            0 new,    10 changed,  5549 unmodified
+Added to the repository: 2.185 MiB (527.121 KiB stored)
+
+processed 47460 files, 158.195 GiB in 0:02
+snapshot 17c34616 saved
+{
+    "MessageId": "7f78f663-aeb6-5abf-a22e-942630200436"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 35 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+35 snapshots
+
+---
+Wed Apr 1 05:05:01 AM CDT 2026
+using parent snapshot 17c34616
+
+Files:         135 new,    97 changed, 47335 unmodified
+Dirs:            7 new,    22 changed,  5533 unmodified
+Added to the repository: 1.449 GiB (1.244 GiB stored)
+
+processed 47567 files, 160.616 GiB in 0:19
+snapshot 78507b0b saved
+{
+    "MessageId": "8a726670-0b8d-5482-9936-0436fbab7e4b"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 36 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+36 snapshots
+
+---
+Thu Apr 2 05:05:01 AM CDT 2026
+using parent snapshot 78507b0b
+
+Files:          38 new,    92 changed, 47473 unmodified
+Dirs:            4 new,    38 changed,  5524 unmodified
+Added to the repository: 424.276 MiB (384.456 MiB stored)
+
+processed 47603 files, 161.005 GiB in 0:06
+snapshot ea0edeb3 saved
+{
+    "MessageId": "a8cf1c21-37b5-53c4-bf8d-7e6976287a75"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 37 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+37 snapshots
+
+---
+Fri Apr 3 05:05:01 AM CDT 2026
+using parent snapshot ea0edeb3
+
+Files:           3 new,    20 changed, 47583 unmodified
+Dirs:            0 new,    17 changed,  5549 unmodified
+Added to the repository: 125.079 MiB (103.885 MiB stored)
+
+processed 47606 files, 161.011 GiB in 0:05
+snapshot cec423bf saved
+{
+    "MessageId": "6f7c4cdd-15eb-53c4-800d-2e9486f30ae0"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 38 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+38 snapshots
+
+---
+Sat Apr 4 05:05:01 AM CDT 2026
+using parent snapshot cec423bf
+
+Files:          14 new,    32 changed, 47546 unmodified
+Dirs:            1 new,    42 changed,  5524 unmodified
+Added to the repository: 33.982 MiB (26.292 MiB stored)
+
+processed 47592 files, 160.937 GiB in 0:02
+snapshot 223c576f saved
+{
+    "MessageId": "8d47a929-be80-5bb4-b1b2-cb635a151bf8"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 39 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+39 snapshots
+
+---
+Sun Apr 5 05:05:01 AM CDT 2026
+using parent snapshot 223c576f
+
+Files:          37 new,    18 changed, 47559 unmodified
+Dirs:            1 new,    32 changed,  5535 unmodified
+Added to the repository: 92.890 MiB (83.215 MiB stored)
+
+processed 47614 files, 161.034 GiB in 0:03
+snapshot 21fec513 saved
+{
+    "MessageId": "ed3c1dfe-faf4-5646-8764-7fb2cce203d5"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 40 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+40 snapshots
+
+---
+Mon Apr 6 05:05:01 AM CDT 2026
+using parent snapshot 21fec513
+
+Files:           1 new,    10 changed, 47604 unmodified
+Dirs:            0 new,    17 changed,  5551 unmodified
+Added to the repository: 9.386 MiB (5.829 MiB stored)
+
+processed 47615 files, 161.039 GiB in 0:02
+snapshot e88ff3bc saved
+{
+    "MessageId": "0502ad65-05c9-52d4-919e-cf28825c439c"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 41 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+41 snapshots
+
+---
+Tue Apr 7 05:05:01 AM CDT 2026
+using parent snapshot e88ff3bc
+
+Files:           1 new,    15 changed, 47600 unmodified
+Dirs:            0 new,    19 changed,  5549 unmodified
+Added to the repository: 6.875 MiB (1.872 MiB stored)
+
+processed 47616 files, 161.039 GiB in 0:02
+snapshot cb65f021 saved
+{
+    "MessageId": "d7b203a6-3d4e-5882-98d4-61e8e45b8e86"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 42 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+42 snapshots
+
+---
+Wed Apr 8 05:05:01 AM CDT 2026
+using parent snapshot cb65f021
+
+Files:           3 new,    11 changed, 47605 unmodified
+Dirs:            0 new,    17 changed,  5551 unmodified
+Added to the repository: 20.160 MiB (15.180 MiB stored)
+
+processed 47619 files, 161.058 GiB in 0:02
+snapshot 8af055b6 saved
+{
+    "MessageId": "a51daf8f-007f-5546-80dd-cddf2ae9f320"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 43 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+43 snapshots
+
+---
+Thu Apr 9 05:05:01 AM CDT 2026
+using parent snapshot 8af055b6
+
+Files:           1 new,     9 changed, 47610 unmodified
+Dirs:            0 new,    15 changed,  5553 unmodified
+Added to the repository: 7.144 MiB (1.744 MiB stored)
+
+processed 47620 files, 161.058 GiB in 0:02
+snapshot dc139943 saved
+{
+    "MessageId": "18d9b655-c9ea-5023-a69a-d404b5fe0b66"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 44 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+44 snapshots
+
+---
+Fri Apr 10 05:05:01 AM CDT 2026
+using parent snapshot dc139943
+
+Files:           5 new,    15 changed, 47604 unmodified
+Dirs:            0 new,    15 changed,  5553 unmodified
+Added to the repository: 16.517 MiB (8.493 MiB stored)
+
+processed 47624 files, 161.065 GiB in 0:02
+snapshot 42e7c6ec saved
+{
+    "MessageId": "65b51cdc-6386-59e9-8b30-7e8eae11f046"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 45 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+42e7c6ec  2026-04-10 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+45 snapshots
+
+---
+Sat Apr 11 05:05:01 AM CDT 2026
+using parent snapshot 42e7c6ec
+
+Files:           0 new,    11 changed, 47613 unmodified
+Dirs:            0 new,    12 changed,  5556 unmodified
+Added to the repository: 2.544 MiB (897.260 KiB stored)
+
+processed 47624 files, 161.065 GiB in 0:02
+snapshot cb81dade saved
+{
+    "MessageId": "1ef66c62-bcda-57d1-ad0e-0e36a3cef113"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 46 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+42e7c6ec  2026-04-10 05:05:01  grey                    within 90d  /home/rich
+cb81dade  2026-04-11 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+46 snapshots
+
+---
+Sun Apr 12 05:05:01 AM CDT 2026
+using parent snapshot cb81dade
+
+Files:           0 new,    11 changed, 47613 unmodified
+Dirs:            0 new,    11 changed,  5557 unmodified
+Added to the repository: 1.726 MiB (380.795 KiB stored)
+
+processed 47624 files, 161.065 GiB in 0:02
+snapshot 6f451f16 saved
+{
+    "MessageId": "42d5ac79-0db0-5696-95e5-ce2c7d2534bb"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 47 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+42e7c6ec  2026-04-10 05:05:01  grey                    within 90d  /home/rich
+cb81dade  2026-04-11 05:05:01  grey                    within 90d  /home/rich
+6f451f16  2026-04-12 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+47 snapshots
+
+---
+Mon Apr 13 05:05:01 AM CDT 2026
+using parent snapshot 6f451f16
+
+Files:           0 new,     7 changed, 47617 unmodified
+Dirs:            0 new,    10 changed,  5558 unmodified
+Added to the repository: 1.677 MiB (369.612 KiB stored)
+
+processed 47624 files, 161.065 GiB in 0:02
+snapshot f8188539 saved
+{
+    "MessageId": "d03c4487-9122-5b40-9c74-26d153370fee"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 48 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+42e7c6ec  2026-04-10 05:05:01  grey                    within 90d  /home/rich
+cb81dade  2026-04-11 05:05:01  grey                    within 90d  /home/rich
+6f451f16  2026-04-12 05:05:01  grey                    within 90d  /home/rich
+f8188539  2026-04-13 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+48 snapshots
+
+---
+Tue Apr 14 05:05:01 AM CDT 2026
+using parent snapshot f8188539
+
+Files:           0 new,     9 changed, 47615 unmodified
+Dirs:            0 new,    13 changed,  5555 unmodified
+Added to the repository: 1.691 MiB (381.078 KiB stored)
+
+processed 47624 files, 161.065 GiB in 0:02
+snapshot 142becd0 saved
+{
+    "MessageId": "07413626-80cd-59e2-8f15-547e93592820"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 49 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+42e7c6ec  2026-04-10 05:05:01  grey                    within 90d  /home/rich
+cb81dade  2026-04-11 05:05:01  grey                    within 90d  /home/rich
+6f451f16  2026-04-12 05:05:01  grey                    within 90d  /home/rich
+f8188539  2026-04-13 05:05:01  grey                    within 90d  /home/rich
+142becd0  2026-04-14 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+49 snapshots
+
+---
+Wed Apr 15 05:05:01 AM CDT 2026
+using parent snapshot 142becd0
+
+Files:           0 new,    10 changed, 47614 unmodified
+Dirs:            0 new,    13 changed,  5555 unmodified
+Added to the repository: 2.586 MiB (930.658 KiB stored)
+
+processed 47624 files, 161.065 GiB in 0:02
+snapshot 61372950 saved
+{
+    "MessageId": "bd99e515-8f62-5045-bd49-874cea7664cb"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 50 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+1ac18838  2026-03-03 18:43:27  grey                    within 90d  /home/rich
+e1256af9  2026-03-03 19:37:02  grey                    within 90d  /home/rich
+bc7e4e0e  2026-03-04 05:05:01  grey                    within 90d  /home/rich
+ba0c354c  2026-03-04 20:25:59  grey                    within 90d  /home/rich
+cc74db78  2026-03-05 05:05:01  grey                    within 90d  /home/rich
+19a49b18  2026-03-06 05:05:01  grey                    within 90d  /home/rich
+2bba0c9f  2026-03-07 05:05:01  grey                    within 90d  /home/rich
+fe382ecc  2026-03-07 09:17:02  grey                    within 90d  /home/rich
+556a3f71  2026-03-07 09:18:02  grey                    within 90d  /home/rich
+a7c2f413  2026-03-07 09:20:01  grey                    within 90d  /home/rich
+b835a5c6  2026-03-08 05:05:01  grey                    within 90d  /home/rich
+9779b3a5  2026-03-09 05:05:01  grey                    within 90d  /home/rich
+a776ecdd  2026-03-10 05:05:02  grey                    within 90d  /home/rich
+23fa2eba  2026-03-11 05:05:01  grey                    within 90d  /home/rich
+4ce341bb  2026-03-12 05:05:01  grey                    within 90d  /home/rich
+387886c3  2026-03-13 05:05:01  grey                    within 90d  /home/rich
+72dfc808  2026-03-14 05:05:01  grey                    within 90d  /home/rich
+d3e19cda  2026-03-15 05:05:01  grey                    within 90d  /home/rich
+03c10c67  2026-03-16 05:05:01  grey                    within 90d  /home/rich
+d3b659ca  2026-03-17 05:05:01  grey                    within 90d  /home/rich
+25a920c5  2026-03-18 05:05:01  grey                    within 90d  /home/rich
+748c677b  2026-03-19 05:05:01  grey                    within 90d  /home/rich
+4a5ec1ac  2026-03-20 05:05:01  grey                    within 90d  /home/rich
+65f48f7c  2026-03-21 05:05:01  grey                    within 90d  /home/rich
+18596a31  2026-03-21 08:35:08  grey                    within 90d  /home/rich
+4b2cb5a1  2026-03-22 05:05:01  grey                    within 90d  /home/rich
+7bae2686  2026-03-23 05:05:01  grey                    within 90d  /home/rich
+17b6241d  2026-03-24 05:05:01  grey                    within 90d  /home/rich
+6f3c2641  2026-03-25 05:05:01  grey                    within 90d  /home/rich
+3c703ab6  2026-03-26 05:05:01  grey                    within 90d  /home/rich
+40d62681  2026-03-27 05:05:01  grey                    within 90d  /home/rich
+56fcca39  2026-03-28 05:05:01  grey                    within 90d  /home/rich
+1eadfefc  2026-03-29 05:05:01  grey                    within 90d  /home/rich
+9b0ce73e  2026-03-30 05:05:01  grey                    within 90d  /home/rich
+17c34616  2026-03-31 05:05:01  grey                    within 90d  /home/rich
+78507b0b  2026-04-01 05:05:01  grey                    within 90d  /home/rich
+ea0edeb3  2026-04-02 05:05:01  grey                    within 90d  /home/rich
+cec423bf  2026-04-03 05:05:01  grey                    within 90d  /home/rich
+223c576f  2026-04-04 05:05:01  grey                    within 90d  /home/rich
+21fec513  2026-04-05 05:05:01  grey                    within 90d  /home/rich
+e88ff3bc  2026-04-06 05:05:01  grey                    within 90d  /home/rich
+cb65f021  2026-04-07 05:05:01  grey                    within 90d  /home/rich
+8af055b6  2026-04-08 05:05:01  grey                    within 90d  /home/rich
+dc139943  2026-04-09 05:05:01  grey                    within 90d  /home/rich
+42e7c6ec  2026-04-10 05:05:01  grey                    within 90d  /home/rich
+cb81dade  2026-04-11 05:05:01  grey                    within 90d  /home/rich
+6f451f16  2026-04-12 05:05:01  grey                    within 90d  /home/rich
+f8188539  2026-04-13 05:05:01  grey                    within 90d  /home/rich
+142becd0  2026-04-14 05:05:01  grey                    within 90d  /home/rich
+61372950  2026-04-15 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+50 snapshots
+

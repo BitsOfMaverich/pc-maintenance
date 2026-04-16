@@ -8,6 +8,7 @@
 Thumbs.db
 
 # directories
+/home/rich/.local/
 /home/rich/.config/Slack/
 /home/rich/.config/google-chrome/
 /home/rich/.config/Code/

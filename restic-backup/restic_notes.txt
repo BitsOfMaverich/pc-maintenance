@@ -133,3 +133,24 @@ restic find sprocket.JPG
 
 
 restore
+    restic restore [flags] [snapshotID|latest]
+
+    # a backed up folder to an alternate restore location
+    restic restore --include /home/rich/OneDrive/pc-maintenance/restic-backup/linux/ --target /tmp/restore-test/ 65f48f7c
+    # restored to:  /tmp/restore-test/home/rich/OneDrive/pc-maintenance/restic-backup/linux/
+
+    # restore based on pattern
+    restic restore 65f48f7c \
+        --include "/home/rich/OneDrive/pc-maintenance/**/*.sh" \
+        --target /tmp/restore-test/
+
+    # restore based on generated includes.  this makes one call per file, so could be busy
+    restic ls 65f48f7c | awk '{print $NF}' | grep "home/rich/OneDrive/pc-maintenance" | grep "\.sh$" > files-to-restore.txt
+
+    for file in $(cat files-to-restore.txt); do
+        restic restore 65f48f7c \
+            --include $file \
+            --target /tmp/restore-test/
+    done
+
+

@@ -1,7 +1,7 @@
 # Minimal disk health check using native Get-PhysicalDisk.
 # Sends SNS alerts if any disk is not Healthy. Sends a Monday heartbeat if all are Healthy.
 
-Start-Transcript -Path "C:\Users\Marsha\Documents\utility\log.txt"
+Start-Transcript -Path "C:\Users\Marsha\Documents\pc-maintenance\disk-check\log.txt"
 
 $Profile     = "maintenance"
 $SnsTopicArn = "arn:aws:sns:us-east-2:465723427096:pc-health"
@@ -56,6 +56,6 @@ foreach ($d in $disks) {
 # Monday heartbeat only if everything is healthy
 if ((Get-Date).DayOfWeek -eq [DayOfWeek]::Monday -and -not $failed) {
     Send-SnsMessage `
-        -Subject "Health Check for $HostName" `
-        -Message "Health checks ran on $HostName. No problems found."
+        -Subject "Health Check PASS: $HostName" `
+        -Message "Health checks PASSED on $HostName."
 }

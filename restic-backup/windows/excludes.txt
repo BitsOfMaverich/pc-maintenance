@@ -2,9 +2,39 @@
 # supports paths and wildcards
 # spaces are fine.  don't quote paths with spaces
 
+# core junk
+$RECYCLE.BIN/
+System Volume Information/
+pagefile.sys
+
+# temp and lock files
+*.tmp
+*.temp
+~$*
+
+# os noise
+/Windows/Temp/
+/Windows/Logs/
+/Windows/Prefetch/
+/Windows/SoftwareDistribution/Download/
+
+# user temp
+/Users/*/AppData/Local/Temp/
+/Users/*/AppData/Local/Microsoft/Windows/INetCache/
+/Users/*/AppData/Local/Microsoft/Windows/Explorer/thumbcache_*.db
+/Users/*/AppData/Local/CrashDumps/
+
+# browser cache
+/Users/*/AppData/Local/Google/Chrome/User Data/*/Cache/
+/Users/*/AppData/Local/Google/Chrome/User Data/*/Code Cache/
+/Users/*/AppData/Local/Microsoft/Edge/User Data/*/Cache/
+/Users/*/AppData/Local/Mozilla/Firefox/Profiles/*/cache2/
+
 # extentions and filenames
 *.bak
 *.iso
 Thumbs.db
 
-c:\Users\Marsha\Documents\Thunderbird profile
+
+# using another backup method becuase of database files
+C:\Users\Marsha\Documents\Thunderbird - old application version
