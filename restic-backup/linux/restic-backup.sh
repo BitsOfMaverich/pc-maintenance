@@ -34,10 +34,11 @@ send_message(){
       --message "${message}"
 }
 
-restic backup \
+result=$(restic backup \
     --one-file-system \
     --files-from ${BACKUP_PATHS_FILE} \
     --exclude-file ${EXCLUDES_FILE}
+)
 
 exit_code=$?
 
@@ -50,12 +51,16 @@ if [ $exit_code -eq 0 ]; then
    short_id=$(echo $latest | jq -r .[0].short_id)
    stats=$(restic stats $short_id)
    message=$(cat << EOF
-DATA:
-########
+Result:
+------------------------
+${result}
+
+Data:
+------------------------
 ${data}
 
-STATS:
-########
+Stats:
+------------------------
 ${stats}
 EOF
 )

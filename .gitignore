@@ -3,3 +3,4 @@ dupe-cleanup/*.csv
 dupe-cleanup/*.json
 dupe-cleanup/*.xlsx
 restic-backup/*/.restic-pass_*
+restic-backup/tic-backup.log
