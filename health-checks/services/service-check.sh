@@ -60,9 +60,9 @@ if [[ -n "$result" ]]; then
   send_sns_message \
     subject="HEALTH ALERT - failed services" \
     message=$result
-else
-  send_sns_message \
-    subject="HEALTH ALERT - failed services - all good" \
-    message="no problemo
-comment this out of the script after you know its working"
+# else
+#   send_sns_message \
+#     subject="HEALTH ALERT - failed services - all good" \
+#     message="no problemo
+# comment this out of the script after you know its working"
 fi

@@ -1,4 +1,8 @@
 # backup-paths.txt
 # spaces are fine
 
-/home/rich
+/home/rich/
+/etc/bind/
+/etc/rsyslog.conf
+/etc/rsyslog.d/
+/etc/filebeat/filebeat.yml
