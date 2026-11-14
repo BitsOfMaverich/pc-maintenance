@@ -1,6 +1,9 @@
 archive
-dupe-cleanup/*.csv
+*.csv
+*.xlsx
+
 dupe-cleanup/*.json
-dupe-cleanup/*.xlsx
 restic-backup/*/.restic-pass_*
 restic-backup/tic-backup.log
+restic-backup/*/log
+restic-backup/*/inventory

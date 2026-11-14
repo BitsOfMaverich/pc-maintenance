@@ -7,7 +7,7 @@ BASE_PATH="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 ENV_FILE="$BASE_PATH/restic.env"
 BACKUP_PATHS_FILE="$BASE_PATH/backup-paths.txt"
 EXCLUDES_FILE="$BASE_PATH/excludes.txt"
-LOG_FILE="$BASE_PATH/restic-backup.log"
+LOG_FILE="$BASE_PATH/log/restic-backup.log"
 
 echo "---" >> $LOG_FILE
 echo $(date) >> $LOG_FILE
