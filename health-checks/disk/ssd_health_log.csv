@@ -271,3 +271,19 @@ Timestamp,Host,Drive,Model,Percentage_Used,Media_Errors,Available_Spare,Realloca
 2026-11-14T06:00-06:00,grey,/dev/nvme1,Samsung SSD 970 EVO 1TB,1,0,97
 2026-11-14T06:00-06:00,grey,/dev/sda,WD Blue SA510 2.5 500GB,,,,0
 2026-11-14T06:00-06:00,grey,/dev/sdb,WDC WD6004FZBX-00C9FA0,,,,0
+2026-11-15T06:00-06:00,grey,/dev/nvme0,WD Blue SN580 500GB,1,0,100
+2026-11-15T06:00-06:00,grey,/dev/nvme1,Samsung SSD 970 EVO 1TB,1,0,97
+2026-11-15T06:00-06:00,grey,/dev/sda,WD Blue SA510 2.5 500GB,,,,0
+2026-11-15T06:00-06:00,grey,/dev/sdb,WDC WD6004FZBX-00C9FA0,,,,0
+2026-11-16T06:00-06:00,grey,/dev/nvme0,WD Blue SN580 500GB,1,0,100
+2026-11-16T06:00-06:00,grey,/dev/nvme1,Samsung SSD 970 EVO 1TB,1,0,97
+2026-11-16T06:00-06:00,grey,/dev/sda,WD Blue SA510 2.5 500GB,,,,0
+2026-11-16T06:00-06:00,grey,/dev/sdb,WDC WD6004FZBX-00C9FA0,,,,0
+2026-11-17T06:00-06:00,grey,/dev/nvme0,WD Blue SN580 500GB,1,0,100
+2026-11-17T06:00-06:00,grey,/dev/nvme1,Samsung SSD 970 EVO 1TB,1,0,97
+2026-11-17T06:00-06:00,grey,/dev/sda,WD Blue SA510 2.5 500GB,,,,0
+2026-11-17T06:00-06:00,grey,/dev/sdb,WDC WD6004FZBX-00C9FA0,,,,0
+2026-11-18T06:00-06:00,grey,/dev/nvme0,WD Blue SN580 500GB,1,0,100
+2026-11-18T06:00-06:00,grey,/dev/nvme1,Samsung SSD 970 EVO 1TB,1,0,97
+2026-11-18T06:00-06:00,grey,/dev/sda,WD Blue SA510 2.5 500GB,,,,0
+2026-11-18T06:00-06:00,grey,/dev/sdb,WDC WD6004FZBX-00C9FA0,,,,0

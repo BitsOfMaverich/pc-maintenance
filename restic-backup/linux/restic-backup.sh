@@ -78,6 +78,5 @@ fi
 
 
 # Cleanup
-restic forget \
-        --keep-within "${KEEP_DAYS}d" \
-        --prune
+# Disable grouping entirely (keep N snapshots total across the whole repo):
+restic forget --group-by "" --keep-last "${KEEP_DAYS}" --prune

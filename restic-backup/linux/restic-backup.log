@@ -1,0 +1,2477 @@
+{
+    "MessageId": "2c406096-ebc9-53d3-82c0-03e57fece770"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 85 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+---------------------------------------------------------------------------------------------
+d2f42978  2026-08-21 20:17:54  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3b921cf6  2026-08-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fc82905  2026-08-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+852b6865  2026-08-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f4ae9908  2026-08-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+18e15754  2026-08-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+00242e4a  2026-08-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b53f3317  2026-08-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ec010b64  2026-08-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d34e823  2026-08-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c830b468  2026-08-31 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6a89853a  2026-09-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1a745a6d  2026-09-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d9e360d8  2026-09-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3da49aba  2026-09-04 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fab36cb  2026-09-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d1ab69ec  2026-09-06 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+7b95e4c1  2026-09-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+991e02e1  2026-09-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d4cd0759  2026-09-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ded2d2d1  2026-09-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8403f410  2026-09-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d5a5566f  2026-09-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1c72cb08  2026-09-13 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+5f5a9154  2026-09-14 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1eae5386  2026-09-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+eccbaf06  2026-09-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bee4be4e  2026-09-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1be53fca  2026-09-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ac7983  2026-09-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a7fe4b61  2026-09-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+04fe93a3  2026-09-21 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+610ff89b  2026-09-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1b42cfe8  2026-09-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3aca1349  2026-09-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+dc4cae5f  2026-09-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+46c41788  2026-09-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0214123e  2026-09-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+199133b8  2026-09-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f115f7ec  2026-09-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0afa03a5  2026-10-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5eefc96  2026-10-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f00aad48  2026-10-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3bdad84c  2026-10-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5774e3e  2026-10-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0838aaca  2026-10-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6f764cfa  2026-10-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+045fe89f  2026-10-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c114647a  2026-10-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+851591f2  2026-10-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+83965f83  2026-10-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9ad5b13e  2026-10-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+014cc843  2026-10-13 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+da28171c  2026-10-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e26aa44a  2026-10-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0ef84bd1  2026-10-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3f583775  2026-10-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bae6b895  2026-10-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9501314c  2026-10-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a5251269  2026-10-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8e382226  2026-10-21 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+38dca6b7  2026-10-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1fbfc6b1  2026-10-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e6dd5749  2026-10-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0e5696ff  2026-10-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a508530a  2026-10-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c01d5015  2026-10-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+88dbfd07  2026-10-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ba76a6c0  2026-10-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+874fc524  2026-10-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c66bf4a1  2026-10-31 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2b171606  2026-11-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b7ea478c  2026-11-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+77b67557  2026-11-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+041ac57f  2026-11-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2433111b  2026-11-05 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ae025c49  2026-11-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+445ab72b  2026-11-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+cd02f484  2026-11-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+413474c2  2026-11-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d5338d1  2026-11-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e60664f6  2026-11-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ea6f21  2026-11-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4af462e5  2026-11-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b2168aa7  2026-11-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+---------------------------------------------------------------------------------------------
+85 snapshots
+
+keep 86 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+69180b75  2026-05-25 05:05:01  grey                    within 90d  /home/rich
+f7142608  2026-05-26 05:05:01  grey                    within 90d  /home/rich
+e6d190a9  2026-05-27 05:05:01  grey                    within 90d  /home/rich
+cf34c4c0  2026-05-28 05:05:01  grey                    within 90d  /home/rich
+5f8a1ee7  2026-05-29 05:05:01  grey                    within 90d  /home/rich
+0f0309f6  2026-05-31 05:05:01  grey                    within 90d  /home/rich
+203e34d8  2026-06-01 05:05:01  grey                    within 90d  /home/rich
+a74788bd  2026-06-02 05:05:01  grey                    within 90d  /home/rich
+c7a3a921  2026-06-03 05:05:01  grey                    within 90d  /home/rich
+d71e7dc9  2026-06-04 05:05:01  grey                    within 90d  /home/rich
+a06c4333  2026-06-05 05:05:01  grey                    within 90d  /home/rich
+7bbc459f  2026-06-06 05:05:01  grey                    within 90d  /home/rich
+c2f4602f  2026-06-07 05:05:01  grey                    within 90d  /home/rich
+ea91e920  2026-06-08 05:05:01  grey                    within 90d  /home/rich
+1cd646a6  2026-06-09 05:05:01  grey                    within 90d  /home/rich
+8f7b1cab  2026-06-10 05:05:01  grey                    within 90d  /home/rich
+1ac9cf0f  2026-06-11 05:05:01  grey                    within 90d  /home/rich
+6a9882e0  2026-06-12 05:05:01  grey                    within 90d  /home/rich
+fb3d19ca  2026-06-13 05:05:01  grey                    within 90d  /home/rich
+f50360c8  2026-06-14 05:05:01  grey                    within 90d  /home/rich
+a684083a  2026-06-15 05:05:01  grey                    within 90d  /home/rich
+a793dd9f  2026-06-16 05:05:01  grey                    within 90d  /home/rich
+21c9be44  2026-06-17 05:05:01  grey                    within 90d  /home/rich
+4b3a29bb  2026-06-18 05:05:02  grey                    within 90d  /home/rich
+e10c937d  2026-06-19 05:05:01  grey                    within 90d  /home/rich
+48e5143d  2026-06-20 05:05:01  grey                    within 90d  /home/rich
+78bbb00d  2026-06-21 05:05:01  grey                    within 90d  /home/rich
+b2d417fd  2026-06-22 05:05:01  grey                    within 90d  /home/rich
+09d8ef0d  2026-06-23 05:05:01  grey                    within 90d  /home/rich
+c9a7ab32  2026-06-24 05:05:01  grey                    within 90d  /home/rich
+7dbcec62  2026-06-25 05:05:01  grey                    within 90d  /home/rich
+528cee18  2026-06-26 05:05:01  grey                    within 90d  /home/rich
+09cc3788  2026-06-27 05:05:01  grey                    within 90d  /home/rich
+3776ec24  2026-06-28 05:05:01  grey                    within 90d  /home/rich
+eeba659f  2026-06-29 05:05:01  grey                    within 90d  /home/rich
+a9dc0d86  2026-06-30 05:05:01  grey                    within 90d  /home/rich
+7fb9b849  2026-07-01 05:05:01  grey                    within 90d  /home/rich
+f274fed5  2026-07-02 05:05:01  grey                    within 90d  /home/rich
+3192d14c  2026-07-03 05:05:01  grey                    within 90d  /home/rich
+2a21a7de  2026-07-04 05:05:01  grey                    within 90d  /home/rich
+68362fa3  2026-07-05 05:05:01  grey                    within 90d  /home/rich
+8187defb  2026-07-06 05:05:01  grey                    within 90d  /home/rich
+c389be63  2026-07-08 05:05:02  grey                    within 90d  /home/rich
+66e27866  2026-07-09 05:05:01  grey                    within 90d  /home/rich
+8ee2c703  2026-07-10 05:05:01  grey                    within 90d  /home/rich
+33d4d723  2026-07-11 05:05:01  grey                    within 90d  /home/rich
+ef463b2a  2026-07-12 05:05:01  grey                    within 90d  /home/rich
+f0ba331b  2026-07-13 05:05:01  grey                    within 90d  /home/rich
+983c166c  2026-07-14 05:05:01  grey                    within 90d  /home/rich
+b641e196  2026-07-15 05:05:01  grey                    within 90d  /home/rich
+ead6819b  2026-07-16 05:05:01  grey                    within 90d  /home/rich
+d3e591db  2026-07-17 05:05:01  grey                    within 90d  /home/rich
+6459f295  2026-07-18 05:05:01  grey                    within 90d  /home/rich
+beaf5028  2026-07-19 05:05:01  grey                    within 90d  /home/rich
+304cc972  2026-07-20 05:05:01  grey                    within 90d  /home/rich
+b325fddb  2026-07-21 05:05:01  grey                    within 90d  /home/rich
+18e75973  2026-07-22 05:05:01  grey                    within 90d  /home/rich
+fb2ad75a  2026-07-23 05:05:01  grey                    within 90d  /home/rich
+a850e840  2026-07-24 05:05:01  grey                    within 90d  /home/rich
+e7c9b8b9  2026-07-25 05:05:01  grey                    within 90d  /home/rich
+64ca694d  2026-07-26 05:05:01  grey                    within 90d  /home/rich
+a3177d70  2026-07-27 05:05:01  grey                    within 90d  /home/rich
+0b1f2c32  2026-07-28 05:05:01  grey                    within 90d  /home/rich
+671bb862  2026-07-29 05:05:01  grey                    within 90d  /home/rich
+5ad85820  2026-07-30 05:05:01  grey                    within 90d  /home/rich
+229c4fe6  2026-07-31 05:05:01  grey                    within 90d  /home/rich
+d3a33d63  2026-08-01 05:05:01  grey                    within 90d  /home/rich
+d03f8027  2026-08-02 05:05:01  grey                    within 90d  /home/rich
+b5dc8043  2026-08-03 05:05:01  grey                    within 90d  /home/rich
+54bb84c3  2026-08-04 05:05:01  grey                    within 90d  /home/rich
+f2010fdc  2026-08-05 05:05:01  grey                    within 90d  /home/rich
+03a7fe60  2026-08-06 05:05:01  grey                    within 90d  /home/rich
+d76e2fb1  2026-08-07 05:05:01  grey                    within 90d  /home/rich
+36cc26eb  2026-08-08 05:05:01  grey                    within 90d  /home/rich
+91dd807c  2026-08-09 05:05:01  grey                    within 90d  /home/rich
+fe2ba1de  2026-08-10 05:05:01  grey                    within 90d  /home/rich
+abcc90a4  2026-08-11 05:05:01  grey                    within 90d  /home/rich
+2887c1b6  2026-08-12 05:05:01  grey                    within 90d  /home/rich
+c292c654  2026-08-13 05:05:01  grey                    within 90d  /home/rich
+a83c630d  2026-08-14 05:05:01  grey                    within 90d  /home/rich
+71fafdf9  2026-08-15 05:05:01  grey                    within 90d  /home/rich
+e7b0df8b  2026-08-16 05:05:01  grey                    within 90d  /home/rich
+f77312cf  2026-08-18 05:05:01  grey                    within 90d  /home/rich
+0da693fe  2026-08-19 05:05:01  grey                    within 90d  /home/rich
+0cd2f2c4  2026-08-20 05:05:01  grey                    within 90d  /home/rich
+060733ab  2026-08-21 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+86 snapshots
+
+{
+    "MessageId": "39741c4e-520d-5126-9952-7f3ab7a8e54a"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 86 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+69180b75  2026-05-25 05:05:01  grey                    within 90d  /home/rich
+f7142608  2026-05-26 05:05:01  grey                    within 90d  /home/rich
+e6d190a9  2026-05-27 05:05:01  grey                    within 90d  /home/rich
+cf34c4c0  2026-05-28 05:05:01  grey                    within 90d  /home/rich
+5f8a1ee7  2026-05-29 05:05:01  grey                    within 90d  /home/rich
+0f0309f6  2026-05-31 05:05:01  grey                    within 90d  /home/rich
+203e34d8  2026-06-01 05:05:01  grey                    within 90d  /home/rich
+a74788bd  2026-06-02 05:05:01  grey                    within 90d  /home/rich
+c7a3a921  2026-06-03 05:05:01  grey                    within 90d  /home/rich
+d71e7dc9  2026-06-04 05:05:01  grey                    within 90d  /home/rich
+a06c4333  2026-06-05 05:05:01  grey                    within 90d  /home/rich
+7bbc459f  2026-06-06 05:05:01  grey                    within 90d  /home/rich
+c2f4602f  2026-06-07 05:05:01  grey                    within 90d  /home/rich
+ea91e920  2026-06-08 05:05:01  grey                    within 90d  /home/rich
+1cd646a6  2026-06-09 05:05:01  grey                    within 90d  /home/rich
+8f7b1cab  2026-06-10 05:05:01  grey                    within 90d  /home/rich
+1ac9cf0f  2026-06-11 05:05:01  grey                    within 90d  /home/rich
+6a9882e0  2026-06-12 05:05:01  grey                    within 90d  /home/rich
+fb3d19ca  2026-06-13 05:05:01  grey                    within 90d  /home/rich
+f50360c8  2026-06-14 05:05:01  grey                    within 90d  /home/rich
+a684083a  2026-06-15 05:05:01  grey                    within 90d  /home/rich
+a793dd9f  2026-06-16 05:05:01  grey                    within 90d  /home/rich
+21c9be44  2026-06-17 05:05:01  grey                    within 90d  /home/rich
+4b3a29bb  2026-06-18 05:05:02  grey                    within 90d  /home/rich
+e10c937d  2026-06-19 05:05:01  grey                    within 90d  /home/rich
+48e5143d  2026-06-20 05:05:01  grey                    within 90d  /home/rich
+78bbb00d  2026-06-21 05:05:01  grey                    within 90d  /home/rich
+b2d417fd  2026-06-22 05:05:01  grey                    within 90d  /home/rich
+09d8ef0d  2026-06-23 05:05:01  grey                    within 90d  /home/rich
+c9a7ab32  2026-06-24 05:05:01  grey                    within 90d  /home/rich
+7dbcec62  2026-06-25 05:05:01  grey                    within 90d  /home/rich
+528cee18  2026-06-26 05:05:01  grey                    within 90d  /home/rich
+09cc3788  2026-06-27 05:05:01  grey                    within 90d  /home/rich
+3776ec24  2026-06-28 05:05:01  grey                    within 90d  /home/rich
+eeba659f  2026-06-29 05:05:01  grey                    within 90d  /home/rich
+a9dc0d86  2026-06-30 05:05:01  grey                    within 90d  /home/rich
+7fb9b849  2026-07-01 05:05:01  grey                    within 90d  /home/rich
+f274fed5  2026-07-02 05:05:01  grey                    within 90d  /home/rich
+3192d14c  2026-07-03 05:05:01  grey                    within 90d  /home/rich
+2a21a7de  2026-07-04 05:05:01  grey                    within 90d  /home/rich
+68362fa3  2026-07-05 05:05:01  grey                    within 90d  /home/rich
+8187defb  2026-07-06 05:05:01  grey                    within 90d  /home/rich
+c389be63  2026-07-08 05:05:02  grey                    within 90d  /home/rich
+66e27866  2026-07-09 05:05:01  grey                    within 90d  /home/rich
+8ee2c703  2026-07-10 05:05:01  grey                    within 90d  /home/rich
+33d4d723  2026-07-11 05:05:01  grey                    within 90d  /home/rich
+ef463b2a  2026-07-12 05:05:01  grey                    within 90d  /home/rich
+f0ba331b  2026-07-13 05:05:01  grey                    within 90d  /home/rich
+983c166c  2026-07-14 05:05:01  grey                    within 90d  /home/rich
+b641e196  2026-07-15 05:05:01  grey                    within 90d  /home/rich
+ead6819b  2026-07-16 05:05:01  grey                    within 90d  /home/rich
+d3e591db  2026-07-17 05:05:01  grey                    within 90d  /home/rich
+6459f295  2026-07-18 05:05:01  grey                    within 90d  /home/rich
+beaf5028  2026-07-19 05:05:01  grey                    within 90d  /home/rich
+304cc972  2026-07-20 05:05:01  grey                    within 90d  /home/rich
+b325fddb  2026-07-21 05:05:01  grey                    within 90d  /home/rich
+18e75973  2026-07-22 05:05:01  grey                    within 90d  /home/rich
+fb2ad75a  2026-07-23 05:05:01  grey                    within 90d  /home/rich
+a850e840  2026-07-24 05:05:01  grey                    within 90d  /home/rich
+e7c9b8b9  2026-07-25 05:05:01  grey                    within 90d  /home/rich
+64ca694d  2026-07-26 05:05:01  grey                    within 90d  /home/rich
+a3177d70  2026-07-27 05:05:01  grey                    within 90d  /home/rich
+0b1f2c32  2026-07-28 05:05:01  grey                    within 90d  /home/rich
+671bb862  2026-07-29 05:05:01  grey                    within 90d  /home/rich
+5ad85820  2026-07-30 05:05:01  grey                    within 90d  /home/rich
+229c4fe6  2026-07-31 05:05:01  grey                    within 90d  /home/rich
+d3a33d63  2026-08-01 05:05:01  grey                    within 90d  /home/rich
+d03f8027  2026-08-02 05:05:01  grey                    within 90d  /home/rich
+b5dc8043  2026-08-03 05:05:01  grey                    within 90d  /home/rich
+54bb84c3  2026-08-04 05:05:01  grey                    within 90d  /home/rich
+f2010fdc  2026-08-05 05:05:01  grey                    within 90d  /home/rich
+03a7fe60  2026-08-06 05:05:01  grey                    within 90d  /home/rich
+d76e2fb1  2026-08-07 05:05:01  grey                    within 90d  /home/rich
+36cc26eb  2026-08-08 05:05:01  grey                    within 90d  /home/rich
+91dd807c  2026-08-09 05:05:01  grey                    within 90d  /home/rich
+fe2ba1de  2026-08-10 05:05:01  grey                    within 90d  /home/rich
+abcc90a4  2026-08-11 05:05:01  grey                    within 90d  /home/rich
+2887c1b6  2026-08-12 05:05:01  grey                    within 90d  /home/rich
+c292c654  2026-08-13 05:05:01  grey                    within 90d  /home/rich
+a83c630d  2026-08-14 05:05:01  grey                    within 90d  /home/rich
+71fafdf9  2026-08-15 05:05:01  grey                    within 90d  /home/rich
+e7b0df8b  2026-08-16 05:05:01  grey                    within 90d  /home/rich
+f77312cf  2026-08-18 05:05:01  grey                    within 90d  /home/rich
+0da693fe  2026-08-19 05:05:01  grey                    within 90d  /home/rich
+0cd2f2c4  2026-08-20 05:05:01  grey                    within 90d  /home/rich
+060733ab  2026-08-21 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+86 snapshots
+
+keep 86 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+---------------------------------------------------------------------------------------------
+d2f42978  2026-08-21 20:17:54  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3b921cf6  2026-08-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fc82905  2026-08-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+852b6865  2026-08-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f4ae9908  2026-08-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+18e15754  2026-08-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+00242e4a  2026-08-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b53f3317  2026-08-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ec010b64  2026-08-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d34e823  2026-08-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c830b468  2026-08-31 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6a89853a  2026-09-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1a745a6d  2026-09-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d9e360d8  2026-09-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3da49aba  2026-09-04 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fab36cb  2026-09-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d1ab69ec  2026-09-06 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+7b95e4c1  2026-09-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+991e02e1  2026-09-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d4cd0759  2026-09-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ded2d2d1  2026-09-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8403f410  2026-09-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d5a5566f  2026-09-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1c72cb08  2026-09-13 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+5f5a9154  2026-09-14 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1eae5386  2026-09-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+eccbaf06  2026-09-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bee4be4e  2026-09-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1be53fca  2026-09-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ac7983  2026-09-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a7fe4b61  2026-09-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+04fe93a3  2026-09-21 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+610ff89b  2026-09-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1b42cfe8  2026-09-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3aca1349  2026-09-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+dc4cae5f  2026-09-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+46c41788  2026-09-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0214123e  2026-09-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+199133b8  2026-09-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f115f7ec  2026-09-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0afa03a5  2026-10-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5eefc96  2026-10-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f00aad48  2026-10-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3bdad84c  2026-10-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5774e3e  2026-10-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0838aaca  2026-10-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6f764cfa  2026-10-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+045fe89f  2026-10-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c114647a  2026-10-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+851591f2  2026-10-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+83965f83  2026-10-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9ad5b13e  2026-10-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+014cc843  2026-10-13 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+da28171c  2026-10-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e26aa44a  2026-10-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0ef84bd1  2026-10-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3f583775  2026-10-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bae6b895  2026-10-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9501314c  2026-10-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a5251269  2026-10-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8e382226  2026-10-21 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+38dca6b7  2026-10-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1fbfc6b1  2026-10-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e6dd5749  2026-10-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0e5696ff  2026-10-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a508530a  2026-10-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c01d5015  2026-10-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+88dbfd07  2026-10-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ba76a6c0  2026-10-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+874fc524  2026-10-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c66bf4a1  2026-10-31 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2b171606  2026-11-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b7ea478c  2026-11-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+77b67557  2026-11-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+041ac57f  2026-11-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2433111b  2026-11-05 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ae025c49  2026-11-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+445ab72b  2026-11-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+cd02f484  2026-11-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+413474c2  2026-11-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d5338d1  2026-11-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e60664f6  2026-11-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ea6f21  2026-11-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4af462e5  2026-11-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b2168aa7  2026-11-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d089a0b9  2026-11-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+---------------------------------------------------------------------------------------------
+86 snapshots
+
+{
+    "MessageId": "3dbb0dc5-e215-5e6b-85ba-6eb3d530cc40"
+}
+Applying Policy: keep all snapshots within 90d of the newest
+keep 86 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+69180b75  2026-05-25 05:05:01  grey                    within 90d  /home/rich
+f7142608  2026-05-26 05:05:01  grey                    within 90d  /home/rich
+e6d190a9  2026-05-27 05:05:01  grey                    within 90d  /home/rich
+cf34c4c0  2026-05-28 05:05:01  grey                    within 90d  /home/rich
+5f8a1ee7  2026-05-29 05:05:01  grey                    within 90d  /home/rich
+0f0309f6  2026-05-31 05:05:01  grey                    within 90d  /home/rich
+203e34d8  2026-06-01 05:05:01  grey                    within 90d  /home/rich
+a74788bd  2026-06-02 05:05:01  grey                    within 90d  /home/rich
+c7a3a921  2026-06-03 05:05:01  grey                    within 90d  /home/rich
+d71e7dc9  2026-06-04 05:05:01  grey                    within 90d  /home/rich
+a06c4333  2026-06-05 05:05:01  grey                    within 90d  /home/rich
+7bbc459f  2026-06-06 05:05:01  grey                    within 90d  /home/rich
+c2f4602f  2026-06-07 05:05:01  grey                    within 90d  /home/rich
+ea91e920  2026-06-08 05:05:01  grey                    within 90d  /home/rich
+1cd646a6  2026-06-09 05:05:01  grey                    within 90d  /home/rich
+8f7b1cab  2026-06-10 05:05:01  grey                    within 90d  /home/rich
+1ac9cf0f  2026-06-11 05:05:01  grey                    within 90d  /home/rich
+6a9882e0  2026-06-12 05:05:01  grey                    within 90d  /home/rich
+fb3d19ca  2026-06-13 05:05:01  grey                    within 90d  /home/rich
+f50360c8  2026-06-14 05:05:01  grey                    within 90d  /home/rich
+a684083a  2026-06-15 05:05:01  grey                    within 90d  /home/rich
+a793dd9f  2026-06-16 05:05:01  grey                    within 90d  /home/rich
+21c9be44  2026-06-17 05:05:01  grey                    within 90d  /home/rich
+4b3a29bb  2026-06-18 05:05:02  grey                    within 90d  /home/rich
+e10c937d  2026-06-19 05:05:01  grey                    within 90d  /home/rich
+48e5143d  2026-06-20 05:05:01  grey                    within 90d  /home/rich
+78bbb00d  2026-06-21 05:05:01  grey                    within 90d  /home/rich
+b2d417fd  2026-06-22 05:05:01  grey                    within 90d  /home/rich
+09d8ef0d  2026-06-23 05:05:01  grey                    within 90d  /home/rich
+c9a7ab32  2026-06-24 05:05:01  grey                    within 90d  /home/rich
+7dbcec62  2026-06-25 05:05:01  grey                    within 90d  /home/rich
+528cee18  2026-06-26 05:05:01  grey                    within 90d  /home/rich
+09cc3788  2026-06-27 05:05:01  grey                    within 90d  /home/rich
+3776ec24  2026-06-28 05:05:01  grey                    within 90d  /home/rich
+eeba659f  2026-06-29 05:05:01  grey                    within 90d  /home/rich
+a9dc0d86  2026-06-30 05:05:01  grey                    within 90d  /home/rich
+7fb9b849  2026-07-01 05:05:01  grey                    within 90d  /home/rich
+f274fed5  2026-07-02 05:05:01  grey                    within 90d  /home/rich
+3192d14c  2026-07-03 05:05:01  grey                    within 90d  /home/rich
+2a21a7de  2026-07-04 05:05:01  grey                    within 90d  /home/rich
+68362fa3  2026-07-05 05:05:01  grey                    within 90d  /home/rich
+8187defb  2026-07-06 05:05:01  grey                    within 90d  /home/rich
+c389be63  2026-07-08 05:05:02  grey                    within 90d  /home/rich
+66e27866  2026-07-09 05:05:01  grey                    within 90d  /home/rich
+8ee2c703  2026-07-10 05:05:01  grey                    within 90d  /home/rich
+33d4d723  2026-07-11 05:05:01  grey                    within 90d  /home/rich
+ef463b2a  2026-07-12 05:05:01  grey                    within 90d  /home/rich
+f0ba331b  2026-07-13 05:05:01  grey                    within 90d  /home/rich
+983c166c  2026-07-14 05:05:01  grey                    within 90d  /home/rich
+b641e196  2026-07-15 05:05:01  grey                    within 90d  /home/rich
+ead6819b  2026-07-16 05:05:01  grey                    within 90d  /home/rich
+d3e591db  2026-07-17 05:05:01  grey                    within 90d  /home/rich
+6459f295  2026-07-18 05:05:01  grey                    within 90d  /home/rich
+beaf5028  2026-07-19 05:05:01  grey                    within 90d  /home/rich
+304cc972  2026-07-20 05:05:01  grey                    within 90d  /home/rich
+b325fddb  2026-07-21 05:05:01  grey                    within 90d  /home/rich
+18e75973  2026-07-22 05:05:01  grey                    within 90d  /home/rich
+fb2ad75a  2026-07-23 05:05:01  grey                    within 90d  /home/rich
+a850e840  2026-07-24 05:05:01  grey                    within 90d  /home/rich
+e7c9b8b9  2026-07-25 05:05:01  grey                    within 90d  /home/rich
+64ca694d  2026-07-26 05:05:01  grey                    within 90d  /home/rich
+a3177d70  2026-07-27 05:05:01  grey                    within 90d  /home/rich
+0b1f2c32  2026-07-28 05:05:01  grey                    within 90d  /home/rich
+671bb862  2026-07-29 05:05:01  grey                    within 90d  /home/rich
+5ad85820  2026-07-30 05:05:01  grey                    within 90d  /home/rich
+229c4fe6  2026-07-31 05:05:01  grey                    within 90d  /home/rich
+d3a33d63  2026-08-01 05:05:01  grey                    within 90d  /home/rich
+d03f8027  2026-08-02 05:05:01  grey                    within 90d  /home/rich
+b5dc8043  2026-08-03 05:05:01  grey                    within 90d  /home/rich
+54bb84c3  2026-08-04 05:05:01  grey                    within 90d  /home/rich
+f2010fdc  2026-08-05 05:05:01  grey                    within 90d  /home/rich
+03a7fe60  2026-08-06 05:05:01  grey                    within 90d  /home/rich
+d76e2fb1  2026-08-07 05:05:01  grey                    within 90d  /home/rich
+36cc26eb  2026-08-08 05:05:01  grey                    within 90d  /home/rich
+91dd807c  2026-08-09 05:05:01  grey                    within 90d  /home/rich
+fe2ba1de  2026-08-10 05:05:01  grey                    within 90d  /home/rich
+abcc90a4  2026-08-11 05:05:01  grey                    within 90d  /home/rich
+2887c1b6  2026-08-12 05:05:01  grey                    within 90d  /home/rich
+c292c654  2026-08-13 05:05:01  grey                    within 90d  /home/rich
+a83c630d  2026-08-14 05:05:01  grey                    within 90d  /home/rich
+71fafdf9  2026-08-15 05:05:01  grey                    within 90d  /home/rich
+e7b0df8b  2026-08-16 05:05:01  grey                    within 90d  /home/rich
+f77312cf  2026-08-18 05:05:01  grey                    within 90d  /home/rich
+0da693fe  2026-08-19 05:05:01  grey                    within 90d  /home/rich
+0cd2f2c4  2026-08-20 05:05:01  grey                    within 90d  /home/rich
+060733ab  2026-08-21 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+86 snapshots
+
+keep 87 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+---------------------------------------------------------------------------------------------
+d2f42978  2026-08-21 20:17:54  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3b921cf6  2026-08-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fc82905  2026-08-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+852b6865  2026-08-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f4ae9908  2026-08-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+18e15754  2026-08-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+00242e4a  2026-08-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b53f3317  2026-08-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ec010b64  2026-08-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d34e823  2026-08-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c830b468  2026-08-31 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6a89853a  2026-09-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1a745a6d  2026-09-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d9e360d8  2026-09-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3da49aba  2026-09-04 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fab36cb  2026-09-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d1ab69ec  2026-09-06 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+7b95e4c1  2026-09-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+991e02e1  2026-09-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d4cd0759  2026-09-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ded2d2d1  2026-09-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8403f410  2026-09-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d5a5566f  2026-09-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1c72cb08  2026-09-13 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+5f5a9154  2026-09-14 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1eae5386  2026-09-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+eccbaf06  2026-09-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bee4be4e  2026-09-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1be53fca  2026-09-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ac7983  2026-09-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a7fe4b61  2026-09-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+04fe93a3  2026-09-21 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+610ff89b  2026-09-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1b42cfe8  2026-09-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3aca1349  2026-09-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+dc4cae5f  2026-09-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+46c41788  2026-09-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0214123e  2026-09-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+199133b8  2026-09-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f115f7ec  2026-09-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0afa03a5  2026-10-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5eefc96  2026-10-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f00aad48  2026-10-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3bdad84c  2026-10-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5774e3e  2026-10-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0838aaca  2026-10-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6f764cfa  2026-10-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+045fe89f  2026-10-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c114647a  2026-10-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+851591f2  2026-10-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+83965f83  2026-10-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9ad5b13e  2026-10-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+014cc843  2026-10-13 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+da28171c  2026-10-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e26aa44a  2026-10-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0ef84bd1  2026-10-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3f583775  2026-10-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bae6b895  2026-10-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9501314c  2026-10-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a5251269  2026-10-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8e382226  2026-10-21 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+38dca6b7  2026-10-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1fbfc6b1  2026-10-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e6dd5749  2026-10-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0e5696ff  2026-10-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a508530a  2026-10-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c01d5015  2026-10-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+88dbfd07  2026-10-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ba76a6c0  2026-10-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+874fc524  2026-10-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c66bf4a1  2026-10-31 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2b171606  2026-11-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b7ea478c  2026-11-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+77b67557  2026-11-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+041ac57f  2026-11-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2433111b  2026-11-05 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ae025c49  2026-11-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+445ab72b  2026-11-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+cd02f484  2026-11-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+413474c2  2026-11-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d5338d1  2026-11-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e60664f6  2026-11-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ea6f21  2026-11-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4af462e5  2026-11-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b2168aa7  2026-11-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d089a0b9  2026-11-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3dc24ce4  2026-11-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+---------------------------------------------------------------------------------------------
+87 snapshots
+
+Applying Policy: keep all snapshots within 90d of the newest
+keep 88 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+---------------------------------------------------------------------------------------------
+d2f42978  2026-08-21 20:17:54  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3b921cf6  2026-08-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fc82905  2026-08-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+852b6865  2026-08-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f4ae9908  2026-08-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+18e15754  2026-08-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+00242e4a  2026-08-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b53f3317  2026-08-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ec010b64  2026-08-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d34e823  2026-08-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c830b468  2026-08-31 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6a89853a  2026-09-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1a745a6d  2026-09-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d9e360d8  2026-09-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3da49aba  2026-09-04 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9fab36cb  2026-09-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d1ab69ec  2026-09-06 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+7b95e4c1  2026-09-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+991e02e1  2026-09-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d4cd0759  2026-09-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ded2d2d1  2026-09-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8403f410  2026-09-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d5a5566f  2026-09-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1c72cb08  2026-09-13 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+5f5a9154  2026-09-14 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1eae5386  2026-09-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+eccbaf06  2026-09-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bee4be4e  2026-09-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1be53fca  2026-09-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ac7983  2026-09-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a7fe4b61  2026-09-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+04fe93a3  2026-09-21 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+610ff89b  2026-09-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1b42cfe8  2026-09-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3aca1349  2026-09-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+dc4cae5f  2026-09-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+46c41788  2026-09-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0214123e  2026-09-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+199133b8  2026-09-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f115f7ec  2026-09-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0afa03a5  2026-10-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5eefc96  2026-10-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+f00aad48  2026-10-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3bdad84c  2026-10-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b5774e3e  2026-10-05 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0838aaca  2026-10-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+6f764cfa  2026-10-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+045fe89f  2026-10-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c114647a  2026-10-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+851591f2  2026-10-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+83965f83  2026-10-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9ad5b13e  2026-10-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+014cc843  2026-10-13 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+da28171c  2026-10-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e26aa44a  2026-10-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0ef84bd1  2026-10-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3f583775  2026-10-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+bae6b895  2026-10-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+9501314c  2026-10-19 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a5251269  2026-10-20 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+8e382226  2026-10-21 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+38dca6b7  2026-10-22 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+1fbfc6b1  2026-10-23 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e6dd5749  2026-10-24 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0e5696ff  2026-10-25 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a508530a  2026-10-26 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c01d5015  2026-10-27 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+88dbfd07  2026-10-28 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ba76a6c0  2026-10-29 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+874fc524  2026-10-30 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+c66bf4a1  2026-10-31 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2b171606  2026-11-01 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b7ea478c  2026-11-02 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+77b67557  2026-11-03 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+041ac57f  2026-11-04 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+2433111b  2026-11-05 05:05:02  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+ae025c49  2026-11-06 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+445ab72b  2026-11-07 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+cd02f484  2026-11-08 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+413474c2  2026-11-09 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4d5338d1  2026-11-10 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+e60664f6  2026-11-11 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+a1ea6f21  2026-11-12 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+4af462e5  2026-11-14 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+b2168aa7  2026-11-15 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+d089a0b9  2026-11-16 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+3dc24ce4  2026-11-17 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+
+0d3316ce  2026-11-18 05:05:01  grey                    within 90d  /etc/bind
+                                                                   /etc/filebeat/filebeat.yml
+                                                                   /etc/rsyslog.conf
+                                                                   /etc/rsyslog.d
+                                                                   /home/rich
+---------------------------------------------------------------------------------------------
+88 snapshots
+
+keep 86 snapshots:
+ID        Time                 Host        Tags        Reasons     Paths
+-----------------------------------------------------------------------------
+69180b75  2026-05-25 05:05:01  grey                    within 90d  /home/rich
+f7142608  2026-05-26 05:05:01  grey                    within 90d  /home/rich
+e6d190a9  2026-05-27 05:05:01  grey                    within 90d  /home/rich
+cf34c4c0  2026-05-28 05:05:01  grey                    within 90d  /home/rich
+5f8a1ee7  2026-05-29 05:05:01  grey                    within 90d  /home/rich
+0f0309f6  2026-05-31 05:05:01  grey                    within 90d  /home/rich
+203e34d8  2026-06-01 05:05:01  grey                    within 90d  /home/rich
+a74788bd  2026-06-02 05:05:01  grey                    within 90d  /home/rich
+c7a3a921  2026-06-03 05:05:01  grey                    within 90d  /home/rich
+d71e7dc9  2026-06-04 05:05:01  grey                    within 90d  /home/rich
+a06c4333  2026-06-05 05:05:01  grey                    within 90d  /home/rich
+7bbc459f  2026-06-06 05:05:01  grey                    within 90d  /home/rich
+c2f4602f  2026-06-07 05:05:01  grey                    within 90d  /home/rich
+ea91e920  2026-06-08 05:05:01  grey                    within 90d  /home/rich
+1cd646a6  2026-06-09 05:05:01  grey                    within 90d  /home/rich
+8f7b1cab  2026-06-10 05:05:01  grey                    within 90d  /home/rich
+1ac9cf0f  2026-06-11 05:05:01  grey                    within 90d  /home/rich
+6a9882e0  2026-06-12 05:05:01  grey                    within 90d  /home/rich
+fb3d19ca  2026-06-13 05:05:01  grey                    within 90d  /home/rich
+f50360c8  2026-06-14 05:05:01  grey                    within 90d  /home/rich
+a684083a  2026-06-15 05:05:01  grey                    within 90d  /home/rich
+a793dd9f  2026-06-16 05:05:01  grey                    within 90d  /home/rich
+21c9be44  2026-06-17 05:05:01  grey                    within 90d  /home/rich
+4b3a29bb  2026-06-18 05:05:02  grey                    within 90d  /home/rich
+e10c937d  2026-06-19 05:05:01  grey                    within 90d  /home/rich
+48e5143d  2026-06-20 05:05:01  grey                    within 90d  /home/rich
+78bbb00d  2026-06-21 05:05:01  grey                    within 90d  /home/rich
+b2d417fd  2026-06-22 05:05:01  grey                    within 90d  /home/rich
+09d8ef0d  2026-06-23 05:05:01  grey                    within 90d  /home/rich
+c9a7ab32  2026-06-24 05:05:01  grey                    within 90d  /home/rich
+7dbcec62  2026-06-25 05:05:01  grey                    within 90d  /home/rich
+528cee18  2026-06-26 05:05:01  grey                    within 90d  /home/rich
+09cc3788  2026-06-27 05:05:01  grey                    within 90d  /home/rich
+3776ec24  2026-06-28 05:05:01  grey                    within 90d  /home/rich
+eeba659f  2026-06-29 05:05:01  grey                    within 90d  /home/rich
+a9dc0d86  2026-06-30 05:05:01  grey                    within 90d  /home/rich
+7fb9b849  2026-07-01 05:05:01  grey                    within 90d  /home/rich
+f274fed5  2026-07-02 05:05:01  grey                    within 90d  /home/rich
+3192d14c  2026-07-03 05:05:01  grey                    within 90d  /home/rich
+2a21a7de  2026-07-04 05:05:01  grey                    within 90d  /home/rich
+68362fa3  2026-07-05 05:05:01  grey                    within 90d  /home/rich
+8187defb  2026-07-06 05:05:01  grey                    within 90d  /home/rich
+c389be63  2026-07-08 05:05:02  grey                    within 90d  /home/rich
+66e27866  2026-07-09 05:05:01  grey                    within 90d  /home/rich
+8ee2c703  2026-07-10 05:05:01  grey                    within 90d  /home/rich
+33d4d723  2026-07-11 05:05:01  grey                    within 90d  /home/rich
+ef463b2a  2026-07-12 05:05:01  grey                    within 90d  /home/rich
+f0ba331b  2026-07-13 05:05:01  grey                    within 90d  /home/rich
+983c166c  2026-07-14 05:05:01  grey                    within 90d  /home/rich
+b641e196  2026-07-15 05:05:01  grey                    within 90d  /home/rich
+ead6819b  2026-07-16 05:05:01  grey                    within 90d  /home/rich
+d3e591db  2026-07-17 05:05:01  grey                    within 90d  /home/rich
+6459f295  2026-07-18 05:05:01  grey                    within 90d  /home/rich
+beaf5028  2026-07-19 05:05:01  grey                    within 90d  /home/rich
+304cc972  2026-07-20 05:05:01  grey                    within 90d  /home/rich
+b325fddb  2026-07-21 05:05:01  grey                    within 90d  /home/rich
+18e75973  2026-07-22 05:05:01  grey                    within 90d  /home/rich
+fb2ad75a  2026-07-23 05:05:01  grey                    within 90d  /home/rich
+a850e840  2026-07-24 05:05:01  grey                    within 90d  /home/rich
+e7c9b8b9  2026-07-25 05:05:01  grey                    within 90d  /home/rich
+64ca694d  2026-07-26 05:05:01  grey                    within 90d  /home/rich
+a3177d70  2026-07-27 05:05:01  grey                    within 90d  /home/rich
+0b1f2c32  2026-07-28 05:05:01  grey                    within 90d  /home/rich
+671bb862  2026-07-29 05:05:01  grey                    within 90d  /home/rich
+5ad85820  2026-07-30 05:05:01  grey                    within 90d  /home/rich
+229c4fe6  2026-07-31 05:05:01  grey                    within 90d  /home/rich
+d3a33d63  2026-08-01 05:05:01  grey                    within 90d  /home/rich
+d03f8027  2026-08-02 05:05:01  grey                    within 90d  /home/rich
+b5dc8043  2026-08-03 05:05:01  grey                    within 90d  /home/rich
+54bb84c3  2026-08-04 05:05:01  grey                    within 90d  /home/rich
+f2010fdc  2026-08-05 05:05:01  grey                    within 90d  /home/rich
+03a7fe60  2026-08-06 05:05:01  grey                    within 90d  /home/rich
+d76e2fb1  2026-08-07 05:05:01  grey                    within 90d  /home/rich
+36cc26eb  2026-08-08 05:05:01  grey                    within 90d  /home/rich
+91dd807c  2026-08-09 05:05:01  grey                    within 90d  /home/rich
+fe2ba1de  2026-08-10 05:05:01  grey                    within 90d  /home/rich
+abcc90a4  2026-08-11 05:05:01  grey                    within 90d  /home/rich
+2887c1b6  2026-08-12 05:05:01  grey                    within 90d  /home/rich
+c292c654  2026-08-13 05:05:01  grey                    within 90d  /home/rich
+a83c630d  2026-08-14 05:05:01  grey                    within 90d  /home/rich
+71fafdf9  2026-08-15 05:05:01  grey                    within 90d  /home/rich
+e7b0df8b  2026-08-16 05:05:01  grey                    within 90d  /home/rich
+f77312cf  2026-08-18 05:05:01  grey                    within 90d  /home/rich
+0da693fe  2026-08-19 05:05:01  grey                    within 90d  /home/rich
+0cd2f2c4  2026-08-20 05:05:01  grey                    within 90d  /home/rich
+060733ab  2026-08-21 05:05:01  grey                    within 90d  /home/rich
+-----------------------------------------------------------------------------
+86 snapshots
+
