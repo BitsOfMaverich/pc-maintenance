@@ -2,8 +2,7 @@ archive
 *.csv
 *.xlsx
 
-dupe-cleanup/*.json
+
 restic-backup/*/.restic-pass_*
-restic-backup/tic-backup.log
 restic-backup/*/log
 restic-backup/*/inventory

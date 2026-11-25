@@ -2,7 +2,8 @@
 # spaces are fine
 
 /home/rich/
-/etc/bind/
+/etc/named/
+/etc/named.conf
 /etc/rsyslog.conf
 /etc/rsyslog.d/
-/etc/filebeat/filebeat.yml
+/etc/samba/

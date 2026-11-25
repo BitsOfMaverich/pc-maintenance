@@ -12,16 +12,15 @@ Thumbs.db
 /home/rich/.config/Slack/
 /home/rich/.config/google-chrome/
 /home/rich/.config/Code/
-/home/rich/X-Plane 12/
+/home/rich/Documents/X-Plane 12/
 /home/rich/.x-plane/
-/home/rich/kubectl/
-/home/rich/OneDrive/people help/
-/home/rich/OneDrive/Scanned Documents/
-/home/rich/OneDrive/aws/AWS_Collect/
-/home/rich/Documents/
-/home/rich/.cache/
-/home/rich/.fgfs/
-/home/rich/.local/share/Trash/
+/home/rich/.vscode/
+/home/rich/.vscode-shared/
+/home/rich/Documents/kubectl/
+/home/rich/Documents/OneDrive/people help/
+/home/rich/Documents/OneDrive/Scanned Documents/
+/home/rich/Documents/OneDrive/aws/AWS_Collect/
 /home/rich/Downloads/
-/home/rich/snap/
+/home/rich/.cache/
+/home/rich/.local/share/Trash/
 /home/rich/Public/

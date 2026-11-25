@@ -2,26 +2,33 @@
 
  # run as root if we expand to backing up outside of my user profile
 
+
 BASE_PATH="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
-
-ENV_FILE="$BASE_PATH/restic.env"
-BACKUP_PATHS_FILE="$BASE_PATH/backup-paths.txt"
-EXCLUDES_FILE="$BASE_PATH/excludes.txt"
-LOG_FILE="$BASE_PATH/log/restic-backup.log"
-
-echo "---" >> $LOG_FILE
-echo $(date) >> $LOG_FILE
-
-[[ -r "$ENV_FILE" ]] || {
-   echo "ERROR: cannot read $ENV_FILE" | tee -a "$LOG_FILE" >&2
-   exit 1
-}
+HOSTNAME_SHORT="$(hostname -s)"
 
 set -a
-. "$ENV_FILE"
+source $BASE_PATH/restic-backup.vars
 set +a
 
-HOSTNAME_SHORT="$(hostname -s)"
+# debug
+
+echo $RESTIC_REPOSITORY
+echo $RESTIC_PASSWORD_FILE
+echo $RESTIC_BACKUP_LOG
+echo
+echo $BACKUP_PATHS_FILE
+echo $EXCLUDES_FILE
+echo $LOG_FILE
+
+echo $AWS_PROFILE
+echo $SNS_TOPIC_ARN
+echo $PATH
+
+echo $DAYS
+
+
+
+
 
 send_message(){
 
@@ -34,6 +41,12 @@ send_message(){
       --message "${message}"
 }
 
+logger(){
+   now=$(date --iso-8601=s)
+   echo "$now $1" >> $LOG_FILE
+}
+
+# do backup
 result=$(restic backup \
     --one-file-system \
     --files-from ${BACKUP_PATHS_FILE} \
@@ -41,6 +54,9 @@ result=$(restic backup \
 )
 
 exit_code=$?
+
+logger "backup exit code: $exit_code"
+
 
 # check exit status.  
 # If 0 collect stats and send message
@@ -64,6 +80,7 @@ Stats:
 ${stats}
 EOF
 )
+   
    send_message "${status}" "${message}"
 
 # else send message with exit code and exit
