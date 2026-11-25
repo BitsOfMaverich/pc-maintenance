@@ -35,10 +35,13 @@ send_message(){
    local status=$1
    local message=$2
 
-  aws --profile "${AWS_PROFILE}" sns publish \
+  result=$(aws --profile "${AWS_PROFILE}" sns publish \
       --topic-arn "${SNS_TOPIC_ARN}" \
       --subject "Restic Backup ${status}: ${HOSTNAME_SHORT}" \
-      --message "${message}"
+      --message "${message}" \
+  )
+
+  logger "sns result: $result"
 }
 
 logger(){
@@ -61,26 +64,21 @@ logger "backup exit code: $exit_code"
 # check exit status.  
 # If 0 collect stats and send message
 if [ $exit_code -eq 0 ]; then
+
+   # Cleanup
+   # Disable grouping entirely (keep N snapshots total across the whole repo):
+   restic forget --group-by "" --keep-last "${KEEP_DAYS}" --prune
+
    status="PASS"
-   latest=$(restic snapshots --latest 1 --json)
-   data=$(echo $latest | jq -r .[0])
-   short_id=$(echo $latest | jq -r .[0].short_id)
-   stats=$(restic stats $short_id)
+   latest=$(restic snapshots latest)
    message=$(cat << EOF
-Result:
-------------------------
-${result}
+Latest snapshot:
+"${latest}"
 
-Data:
-------------------------
-${data}
-
-Stats:
-------------------------
-${stats}
+Total snapshots: $(restic snapshots --json | jq length)
 EOF
-)
-   
+   )
+
    send_message "${status}" "${message}"
 
 # else send message with exit code and exit
@@ -94,6 +92,3 @@ EOF
 fi
 
 
-# Cleanup
-# Disable grouping entirely (keep N snapshots total across the whole repo):
-restic forget --group-by "" --keep-last "${KEEP_DAYS}" --prune
